@@ -1,1 +1,2 @@
 Ce répertoire est utilisé pour le TP1 du cours de Cproj.
+Romain Daguerre
